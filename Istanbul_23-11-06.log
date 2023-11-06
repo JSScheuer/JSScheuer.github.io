@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.11)  5 NOV 2023 20:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.11)  5 NOV 2023 20:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -882,24 +882,24 @@ File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 (./Istanbul_23-11-06.aux)
 \openout1 = `Istanbul_23-11-06.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 199.
-LaTeX Font Info:    ... okay on input line 199.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 199.
-LaTeX Font Info:    ... okay on input line 199.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 199.
-LaTeX Font Info:    ... okay on input line 199.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 199.
-LaTeX Font Info:    ... okay on input line 199.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 199.
-LaTeX Font Info:    ... okay on input line 199.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 199.
-LaTeX Font Info:    ... okay on input line 199.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 199.
-LaTeX Font Info:    ... okay on input line 199.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 199.
-LaTeX Font Info:    ... okay on input line 199.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 199.
-LaTeX Font Info:    ... okay on input line 199.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 201.
+LaTeX Font Info:    ... okay on input line 201.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 201.
+LaTeX Font Info:    ... okay on input line 201.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 201.
+LaTeX Font Info:    ... okay on input line 201.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 201.
+LaTeX Font Info:    ... okay on input line 201.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 201.
+LaTeX Font Info:    ... okay on input line 201.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 201.
+LaTeX Font Info:    ... okay on input line 201.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 201.
+LaTeX Font Info:    ... okay on input line 201.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 201.
+LaTeX Font Info:    ... okay on input line 201.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 201.
+LaTeX Font Info:    ... okay on input line 201.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -957,7 +957,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 199.
+Package hyperref Info: Link coloring OFF on input line 201.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -971,71 +971,71 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count356
 )
-LaTeX Info: Redefining \ref on input line 199.
-LaTeX Info: Redefining \pageref on input line 199.
-LaTeX Info: Redefining \nameref on input line 199.
+LaTeX Info: Redefining \ref on input line 201.
+LaTeX Info: Redefining \pageref on input line 201.
+LaTeX Info: Redefining \nameref on input line 201.
  (./Istanbul_23-11-06.out) (./Istanbul_23-11-06.out)
 \@outlinefile=\write5
 \openout5 = `Istanbul_23-11-06.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 199.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 201.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 199.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 201.
 \symnumbers=\mathgroup8
 \sympureletters=\mathgroup9
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 199.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 199.
+(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 201.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 201.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 199.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 201.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 199.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 199.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 201.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 201.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 199.
+(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 201.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 199.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 199.
+(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 201.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 201.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 199.
+(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 201.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 199.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 199.
+(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 201.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 201.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 199.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 201.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 199.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 201.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 199.
+(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 201.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 199.
+(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 201.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 199.
+(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 201.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/cmss/b/n --> T1/cmss/b/n on input line 199.
+(Font)                  T1/cmss/b/n --> T1/cmss/b/n on input line 201.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 199.
+(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 201.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 199.
+(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 201.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 199.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 199.
+(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 201.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 201.
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `normal' on input line 19
-9.
+(Font)              `pureletters' in the math version `normal' on input line 20
+1.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  T1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 19
-9.
+(Font)                  T1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 20
+1.
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `bold' on input line 199.
+(Font)              `pureletters' in the math version `bold' on input line 201.
 
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 19
-9.
+(Font)                  T1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 20
+1.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 199.
+ut line 201.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/translator/translator-basic-dicti
 onary-English.dict
@@ -1062,32 +1062,32 @@ tionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
 \autonum@environmentWidth=\skip65
-LaTeX Font Info:    Trying to load font information for U+msa on input line 199
+LaTeX Font Info:    Trying to load font information for U+msa on input line 201
 .
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 199
+LaTeX Font Info:    Trying to load font information for U+msb on input line 201
 .
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+wasy on input line 19
-9.
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 20
+1.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 )
-LaTeX Font Info:    Trying to load font information for U+esint on input line 1
-99.
+LaTeX Font Info:    Trying to load font information for U+esint on input line 2
+01.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/esint/uesint.fd
 File: uesint.fd 
 )
 LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 199.
+ut line 201.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
@@ -1115,7 +1115,7 @@ thkerncmss.
 ] [11
 
 ]
-Overfull \vbox (0.94649pt too high) detected at line 396
+Overfull \vbox (0.94649pt too high) detected at line 398
  []
 
 [12
@@ -1127,7 +1127,7 @@ Overfull \vbox (0.94649pt too high) detected at line 396
 ] [15
 
 ]
-Overfull \hbox (2.50418pt too wide) detected at line 455
+Overfull \hbox (2.50418pt too wide) detected at line 457
 [][][]
  []
 
@@ -1199,7 +1199,7 @@ mf-dist/fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texlive/2022/texmf
 ist/fonts/type1/public/cm-super/sfsx0900.pfb></usr/local/texlive/2022/texmf-dis
 t/fonts/type1/public/cm-super/sfsx1000.pfb></usr/local/texlive/2022/texmf-dist/
 fonts/type1/public/cm-super/sfsx1095.pfb>
-Output written on Istanbul_23-11-06.pdf (21 pages, 380084 bytes).
+Output written on Istanbul_23-11-06.pdf (21 pages, 379970 bytes).
 PDF statistics:
  409 PDF objects out of 1000 (max. 8388607)
  268 compressed objects within 3 object streams
