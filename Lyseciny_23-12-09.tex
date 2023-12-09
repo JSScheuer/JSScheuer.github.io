@@ -197,10 +197,10 @@
 \vspace{-0.5cm}
 }
 \date[Horní Lyse$\check{c}$iny, 09/12/23]{{\bf{Horní Lyse$\check{c}$iny ``Integral''}}
-\begin{figure}\includegraphics[width=0.3\textwidth]{horni.png}\vspace{-0.3cm}
-\captionsetup{labelformat=empty}
-	\caption{Scan me for the slides !}
-\end{figure}
+%\begin{figure}\includegraphics[width=0.3\textwidth]{horni.png}\vspace{-0.3cm}
+%\captionsetup{labelformat=empty}
+%	\caption{Scan me for the slides !}
+%\end{figure}
 }
 
 
@@ -527,6 +527,28 @@ for some Wulff sphere ${\cW}\subset\mathbb{R}^{n+1}$, provided the RHS is suffic
 
 \end{frame}
 
+\begin{frame} \setbeamercovered{invisible}
+\frametitle{Application III: Serrin' problem}
+\begin{itemize}
+\item Serrin's overdetermined problem asks which domains $\Om$ allow solutions to
+\eq{\De u & = 1\q \mbox{in}~\Om\\
+	u&= 0\q\mbox{on}~\del\Om\\
+	\abs{\n u}&=c\q\mbox{on}~\del\Om.}
+\begin{itemize}
+	\item The answer is: Only balls.
+\end{itemize}
+
+\item The anisotropic version (yielding equality to the Wulff shape)
+ \eq{\dive(D^{\sharp}(\tfr 12 F^{2})(D^{\sharp }f)) &=1\q &&\mbox{in}~\Om\\
+	f&=0\q &&\mbox{on}~\del\Om\\
+	F(D^{\sharp}f) &= c\q&&\mbox{on}~\del\Om}
+is due to Cianchi/Salani.\footnote{{\it Overdetermined anisotropic elliptic problems}, Math. Ann. {\bf 345} (2009), no. 4, 859--881.}
+
+\end{itemize}
+
+
+\end{frame}
+
 
 \begin{frame} \setbeamercovered{invisible}
 \frametitle{Application III: Stability in the anisotropic Serrin problem}
@@ -542,7 +564,8 @@ Then there exists a positive constant depending only on $n,\al, F,r,\diam(\Om)$,
 }
 for some Wulff sphere ${\cW}\subset\mathbb{R}^{n+1}$, provided the RHS is sufficiently small. Here 
  \eq{\dive(D^{\sharp}(\tfr 12 F^{2})(D^{\sharp }f)) &=1\q &&\mbox{in}~\Om\\
-	f&=0\q &&\mbox{on}~\del\Om.}\end{theorem}
+	f&=0\q &&\mbox{on}~\del\Om.}
+	\end{theorem}
 \end{frame}
 
 \begin{frame} \setbeamercovered{invisible}

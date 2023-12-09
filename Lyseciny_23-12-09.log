@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.11)  7 DEC 2023 20:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.11)  9 DEC 2023 11:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1124,20 +1124,9 @@ ut line 208.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
-) (./Lyseciny_23-12-09.nav)
-<horni.png, id=27, 301.125pt x 301.125pt>
-File: horni.png Graphic file (type png)
-<use horni.png>
-Package pdftex.def Info: horni.png  used on input line 210.
-(pdftex.def)             Requested size: 102.68962pt x 102.68898pt.
+) (./Lyseciny_23-12-09.nav) [1
 
-Overfull \vbox (18.572pt too high) detected at line 210
- []
-
-[1
-
-{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./horni
-.png>] [2
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
 
 ] [3
 
@@ -1175,17 +1164,22 @@ Overfull \vbox (1.5601pt too high) detected at line 371
 
 ] [18
 
+] [19
+
 ]
-Overfull \hbox (3.84889pt too wide) detected at line 567
+Overfull \hbox (3.84889pt too wide) detected at line 590
 [][][]
  []
 
-[19
+[20
 
-] [20
+] [21
 
-]
-No file Lyseciny_23-12-09.bbl.
+] (./Lyseciny_23-12-09.bbl
+
+LaTeX Warning: Empty `thebibliography' environment on input line 10.
+
+)
 \tf@nav=\write6
 \openout6 = `Lyseciny_23-12-09.nav'.
 
@@ -1195,16 +1189,16 @@ No file Lyseciny_23-12-09.bbl.
 \tf@snm=\write8
 \openout8 = `Lyseciny_23-12-09.snm'.
 
-(./Lyseciny_23-12-09.aux)
+ (./Lyseciny_23-12-09.aux)
 Package rerunfilecheck Info: File `Lyseciny_23-12-09.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 29112 strings out of 478268
- 576549 string characters out of 5846347
- 831557 words of memory out of 5000000
- 46661 multiletter control sequences out of 15000+600000
- 507483 words of font info for 123 fonts, out of 8000000 for 9000
+ 29115 strings out of 478268
+ 576731 string characters out of 5846347
+ 829455 words of memory out of 5000000
+ 46663 multiletter control sequences out of 15000+600000
+ 506708 words of font info for 122 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,18n,122p,485b,750s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
@@ -1242,10 +1236,10 @@ st/fonts/type1/public/cm-super/sfss2488.pfb></usr/local/texlive/2022/texmf-dist
 /fonts/type1/public/cm-super/sfsx0900.pfb></usr/local/texlive/2022/texmf-dist/f
 onts/type1/public/cm-super/sfsx1000.pfb></usr/local/texlive/2022/texmf-dist/fon
 ts/type1/public/cm-super/sfsx1095.pfb>
-Output written on Lyseciny_23-12-09.pdf (20 pages, 429306 bytes).
+Output written on Lyseciny_23-12-09.pdf (21 pages, 427074 bytes).
 PDF statistics:
- 443 PDF objects out of 1000 (max. 8388607)
- 284 compressed objects within 3 object streams
- 42 named destinations out of 1000 (max. 500000)
- 388 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 447 PDF objects out of 1000 (max. 8388607)
+ 289 compressed objects within 3 object streams
+ 44 named destinations out of 1000 (max. 500000)
+ 383 words of extra memory for PDF output out of 10000 (max. 10000000)
 
