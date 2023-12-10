@@ -1,2 +1,0 @@
-\providecommand \autonum@processReference [2]{}
-\babel@toc {polish}{}\relax 
